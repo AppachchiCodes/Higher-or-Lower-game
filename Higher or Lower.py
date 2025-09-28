@@ -1,5 +1,5 @@
 from art import logo, vs
-from game_data import data
+from Game_Data import data
 import random
 
 def account_data (account):
